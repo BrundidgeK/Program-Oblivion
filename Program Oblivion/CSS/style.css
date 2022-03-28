@@ -1,0 +1,30 @@
+.Description{
+  background-color: #4ca0d4;
+  color: white;
+}
+
+.Contacts{
+  background-color: #fa8557
+}
+
+.OtherWorks{
+  background-color: #cfeffa
+}
+
+.Top{
+  background-color: #23003A;
+  position: relative;
+  top: -22px;
+}
+
+.Bottom{
+  background-color: #071657;
+  position: relative;
+  top: -22px;
+  color: white
+}
+
+.WhiteText{
+    color: white;
+    font-weight: 700;
+}
